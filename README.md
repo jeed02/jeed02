@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi! 👋 I'm JD
 
+🎓 **`Software Engineer \ Audio Engineer \ University of Auckland Bsc (Honours) @ Computer Science`**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jeed02&theme=dark)](https://git.io/streak-stats)
+
+[![JD's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeed02&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jeed02/jeed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
